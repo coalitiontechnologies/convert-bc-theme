@@ -1,0 +1,191 @@
+.icon-social {
+    width: 25px;
+    height: 25px;
+    background: url('../images/turquoise_socialmedia_sprite.png') no-repeat;
+}
+.footer-main .icon-social {
+    text-indent:0 !important;
+    padding:6px 0 0 30px !important;
+}
+#Header .icon-social {
+    width:32px;
+    height:30px;
+}
+#Header .icon-facebook {
+    background-position: 0 0;
+}
+#Header .icon-facebook:hover,
+#Header .icon-facebook:focus {
+    background-position: right top;
+}
+
+
+#Header .icon-twitter {
+    background-position: left -41px;
+}
+#Header .icon-twitter:hover,
+#Header .icon-twitter:focus {
+    background-position: right -41px;
+}
+
+
+#Header .icon-googleplus {
+    background-position: left -77px;
+}
+#Header .icon-googleplus:hover,
+#Header .icon-googleplus:focus {
+    background-position: right -77px;
+}
+
+
+#Header .icon-pinterest {
+    background-position: left -117px;
+}
+#Header .icon-pinterest:hover,
+#Header .icon-pinterest:focus {
+    background-position: right -117px;
+}
+
+
+#Header .icon-youtube {
+    background-position: left -231px;
+}
+#Header .icon-youtube:hover,
+#Header .icon-youtube:focus {
+    background-position: right -231px;
+}
+
+#Header .icon-linkedin     {
+    background-position: left -271px;
+}
+#Header .icon-linkedin:hover,
+#Header .icon-linkedin:focus {
+    background-position: right -271px;
+}
+
+
+
+#Header .icon-stumbleupon {
+    background-position: left -152px;
+}
+#Header .icon-stumbleupon:hover,
+#Header .icon-stumbleupon:focus {
+    background-position: right -152px;
+}
+
+
+#Header .icon-tumblr {
+    background-position: left -194px;
+}
+#Header .icon-tumblr:hover,
+#Header .icon-tumblr:focus {
+    background-position: right -194px;
+}
+
+#Header .icon-rss {
+    background-position: left -314px;
+}
+#Header .icon-rss:hover,
+#Header .icon-rss:focus {
+    background-position: right -314px;
+}
+
+
+.icon-facebook {
+    background-position: 0 0;
+}
+.is-disabled.icon-facebook {
+    background-position: -65px 0;
+}
+.icon-facebook:hover,
+.icon-facebook:focus {
+    background-position: -130px 0;
+}
+
+.icon-googleplus {
+    background-position: 0 -40px;
+}
+.is-disabled.icon-googleplus {
+    background-position: -65px -40px;
+}
+.icon-googleplus:hover,
+.icon-googleplus:focus {
+    background-position: -130px -40px;
+}
+
+.icon-tumblr {
+    background-position: 0 -80px;
+}
+.is-disabled.icon-tumblr {
+    background-position: -65px -80px;
+}
+.icon-tumblr:hover,
+.icon-tumblr:focus {
+    background-position: -130px -80px;
+}
+
+.icon-twitter {
+    background-position: 0 -120px;
+}
+.is-disabled.icon-twitter {
+    background-position: -65px -120px;
+}
+.icon-twitter:hover,
+.icon-twitter:focus {
+    background-position: -130px -120px;
+}
+
+.icon-pinterest {
+    background-position: 0 -160px;
+}
+.is-disabled.icon-pinterest {
+    background-position: -65px -160px ;
+}
+.icon-pinterest:hover,
+.icon-pinterest:focus {
+    background-position: -130px -160px;
+}
+
+.icon-stumbleupon {
+    background-position: 0 -200px;
+}
+.is-disabled.icon-stumbleupon {
+    background-position: -65px -200px;
+}
+.icon-stumbleupon:hover,
+.icon-stumbleupon:focus {
+    background-position: -130px -200px;
+}
+
+.icon-youtube {
+    background-position: 0 -240px;
+}
+.is-disabled.icon-youtube {
+    background-position: -65px -240px;
+}
+.icon-youtube:hover,
+.icon-youtube:focus {
+    background-position: -130px -240px;
+}
+
+.icon-linkedin     {
+    background-position: 0 -280px;
+}
+.is-disabled.icon-linkedin {
+    background-position: -65px -280px;
+}
+.icon-linkedin:hover,
+.icon-linkedin:focus {
+    background-position: -130px -280px;
+}
+
+.icon-rss {
+    background-position: 0 -320px;
+}
+.is-disabled.icon-rss {
+    background-position: -65px -320px;
+}
+.icon-rss:hover,
+.icon-rss:focus {
+    background-position: -130px -320px;
+}

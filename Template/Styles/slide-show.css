@@ -1,0 +1,74 @@
+.flexslider {
+    position: relative;
+    border-radius: 0;
+    box-shadow: none;
+    border: 0;
+}
+
+.slide-show {
+    margin-bottom: 20px !important;
+}
+
+.slide-show h2 {
+    font-family: 'Enriqueta', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+		padding:0;
+}
+
+.slide-overlay .btn {
+  padding:0 2em;
+	height:50px;
+	line-height:50px;
+	font-size:20px;
+  font-family: 'Asap', sans-serif;
+  font-weight: 700;		
+	letter-spacing:1px;
+}
+.slide-button {
+	text-align:center;
+}
+
+.slide-show li.slide {
+    position: relative;
+}
+
+.slide-show .slide-text {
+    font-family: 'Asap', sans-serif;
+    font-size: 22px;
+}
+
+.flex-control-nav {
+    bottom: 10px !important;
+}
+.slide-image-wrapper {
+	display:block;
+	text-align:center;
+}
+
+
+
+.slide-show .slide-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 52%;
+    right: 0;
+    top: 35%;
+		width:25%;
+}
+
+.flex-direction-nav .flex-next {
+    background-position: 100% 0;
+    right: 25px;
+}
+
+.flex-direction-nav .flex-prev {
+    left: 25px;
+}
+
+
+
+
+
+
+

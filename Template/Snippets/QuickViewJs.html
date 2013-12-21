@@ -1,0 +1,10 @@
+ShowImageZoomer = false;
+$(document).ready(function() {
+    $(".QuickView").quickview({
+        buttonText: '',
+        buttonColor: "%%GLOBAL_QuickViewButtonColor%%",
+        gradientColor: "%%GLOBAL_QuickViewGradientColor%%",
+        textColor: "%%GLOBAL_QuickViewTextColor%%"
+    });
+    $('.QuickViewBtn').append('<span>%%GLOBAL_QuickViewButtonText%%</span>');
+});
